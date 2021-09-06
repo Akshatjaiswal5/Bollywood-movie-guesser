@@ -61,7 +61,7 @@ void main()
 		printf("2.This game is written completely in C and developed via DevC++ IDE.\n");
 		printf("3.Turn off CAPSLOCK before playing this game.\n");
 		printf("4.Database of movies is sourced from\n  imdb.com\n  hindigeetmala.net\n  wikipedia.org\n");	
-		printf("5.Stay safe, stay home, boycott china.\n\n\n\n\n\n\n");
+		printf("5.Stay safe, stay home.\n\n\n\n\n\n\n");
 		printf("\n\nPress any key to return to main menu");
 	
 		getch();
